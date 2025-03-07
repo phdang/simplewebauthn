@@ -30,7 +30,7 @@ of the user 1 (phdang) from step 3. You can change the name phdang as default fr
 From browser 2, the operator can refresh the page and click on "Authenticate" button to pretend
 to sign in again and read the data of user 1 (phdang).
 
-### Step 6 Stop the server and website
+### Step 6 - Stop the server and website
 Kill the terminal or use Ctrl + C to exit those two terminals in Step 1 and Step 2
 
 
